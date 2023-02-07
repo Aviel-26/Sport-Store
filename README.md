@@ -33,6 +33,6 @@ page of out three category of products, you can enter and see each category by c
 Also you enter each item or delete 
  **Store.png
 
- <img src="src\README_img\Store.png"  class='imgRead' alt="Alt text" >
+ <img src="src\README_img\store.png"  class='imgRead' alt="Alt text" >
  
 
