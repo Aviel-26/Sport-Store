@@ -5,7 +5,7 @@ we have three main pages
 Main page that has out logo and bottun that lead you to all products pages
 **Home.pic**
 
-<img src="src\README_img\Add Product.png" alt="Alt text" title="Optional title">
+<img src="src\README_img\Add Product.png"  className = imgRead alt="Alt text" >
 
 ## All Products 
 all the products in the store on one page.
