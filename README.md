@@ -5,6 +5,8 @@ we have three main pages
 Main page that has out logo and bottun that lead you to all products pages
 **Home.pic**
 
+<img src="C:\Users\Aviel\Desktop\SportStore-main\src\README_img\Add Product.png" alt="Alt text" title="Optional title">
+
 ## All Products 
 all the products in the store on one page.
 Click on "buy" to see his details, click "delete" to delete item
