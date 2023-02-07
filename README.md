@@ -1,38 +1,35 @@
 # Welcome to out Sport-Store
+This app made by Gal Amit & Aviel mutai as a part of final project for REACT corss.
 we have three main pages
 
 ## Home 
-Main page that has out logo and bottun that lead you to all products pages
-**Home.pic**
+Main page - contain has logo and button that lead to all the store's products page.
 
 <img src="src\README_img\home.jpg"  class='imgRead' alt="Alt text" >
 
 ## All Products 
-all the products in the store on one page.
-Click on "buy" to see his details, click "delete" to delete item
-**AllProducts.png**
+Show all products in the store on one page.
+For each item there is button "buy" that lead to item page.
+Also there is button "delete" to delete item from DB.
 
 <img src="src\README_img\AllProducts.png"  class='imgRead' alt="Alt text" >
 
+## Store 
+Three categorys of product: Accessories, Instruments, Clothe.
+picture click to see the items of each category.
+
+<img src="src\README_img\store.png"  class='imgRead' alt="Alt text" >
+
 ## Item
-item details
-**ItemDetails.png**
+item details. we can change the details of the item like name, picture, price and about.
 
 <img src="src\README_img\ItemDetails.png"  class='imgRead' alt="Alt text" >
 
 ## Add 
-You have the ability to add new product.
+Add new product the DB.
 Adding name, category, img, price and about
-Then click submit and it will be save in all product page.
- ** Add Product.png**
+Button submit and it will be save in all product page.
 
  <img src="src\README_img\Add Product.png"  class='imgRead' alt="Alt text" >
- 
-## Store 
-page of out three category of products, you can enter and see each category by clicking it
-Also you enter each item or delete 
- **Store.png
-
- <img src="src\README_img\store.png"  class='imgRead' alt="Alt text" >
  
 
