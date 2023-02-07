@@ -30,6 +30,6 @@ Add new product the DB.
 Adding name, category, img, price and about
 Button submit and it will be save in all product page.
 
-<img src="src\README_img\store5.jpg"  width="320" height="250" alt="Alt text5" >
+<img src="src\README_img\Add Product.png"  width="320" height="250" alt="Alt text5" >
  
 
